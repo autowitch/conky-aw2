@@ -1,0 +1,4 @@
+local weather = {}
+
+return weather
+
